@@ -1,4 +1,17 @@
 #mapid {
-  height: 500px;
-  width: 1000px;
+  height: 800px;
+  width: 80%;
+  display: inline-block;
+}
+
+#panel {
+  width: 16%;
+  display: inline-block;
+  vertical-align: top;
+  background-color: #FFA;
+  padding: 10px;
+}
+
+.leaflet-popup-content p {
+    margin: .01em 0;
 }

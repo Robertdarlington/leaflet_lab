@@ -75,7 +75,7 @@
         "2012": 2000,
         "2014": 1000,
         "Id": 4,
-        "Country": "DR Congo"
+        "Country": "Democratic Republic of Congo"
       },
       "geometry": {
         "type": "Point",
@@ -305,17 +305,14 @@
         "2010": 7000,
         "2012": 7500,
         "2014": 9000,
-        "marker-color": "#7E7E7E",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Id": 15,
-        "Country": "W. Africa"
+        "Country": "West Africa"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.5317,
-          2.4604
+          3.0341667,
+          12.0408333
         ]
       }
     },
@@ -624,13 +621,13 @@
         "2012": 7500,
         "2014": 9000,
         "Id": 15,
-        "Country": "West African Region"
+        "Country": "West Africa"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.5317,
-          2.4604
+          3.0341667,
+          12.0408333
         ]
       }
     }

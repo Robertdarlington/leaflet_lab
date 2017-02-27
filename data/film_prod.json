@@ -1,0 +1,1615 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 1041,
+        "Pop_2006": 1091,
+        "Pop_2007": 1146,
+        "Pop_2008": 1325,
+        "Pop_2009": 1288,
+        "Pop_2010": 1274,
+        "Pop_2011": 1255,
+        "Pop_2012": 1602,
+        "Pop_2013": 1724,
+        "ID": 1,
+        "Country": "India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4580917,
+          23.4060116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 699,
+        "Pop_2006": 673,
+        "Pop_2007": 789,
+        "Pop_2008": 773,
+        "Pop_2009": 751,
+        "Pop_2010": 792,
+        "Pop_2011": 819,
+        "Pop_2012": 738,
+        "Pop_2013": 738,
+        "ID": 2,
+        "Country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9573364,
+          39.4432564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 260,
+        "Pop_2006": 330,
+        "Pop_2007": 411,
+        "Pop_2008": 422,
+        "Pop_2009": 475,
+        "Pop_2010": 542,
+        "Pop_2011": 584,
+        "Pop_2012": 745,
+        "Pop_2013": 638,
+        "ID": 3,
+        "Country": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9754333,
+          36.5530853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 356,
+        "Pop_2006": 417,
+        "Pop_2007": 407,
+        "Pop_2008": 418,
+        "Pop_2009": 448,
+        "Pop_2010": 408,
+        "Pop_2011": 441,
+        "Pop_2012": 554,
+        "Pop_2013": 591,
+        "ID": 4,
+        "Country": "Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0772705,
+          36.2816467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 240,
+        "Pop_2006": 203,
+        "Pop_2007": 228,
+        "Pop_2008": 240,
+        "Pop_2009": 230,
+        "Pop_2010": 261,
+        "Pop_2011": 272,
+        "Pop_2012": 279,
+        "Pop_2013": 270,
+        "ID": 5,
+        "Country": "France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3382623,
+          46.6372795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 106,
+        "Pop_2006": 107,
+        "Pop_2007": 124,
+        "Pop_2008": 279,
+        "Pop_2009": 313,
+        "Pop_2010": 346,
+        "Pop_2011": 299,
+        "Pop_2012": 326,
+        "Pop_2013": 241,
+        "ID": 6,
+        "Country": "United Kingdom of Great Britain and Northern Ireland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2125118,
+          54.5608864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 142,
+        "Pop_2006": 150,
+        "Pop_2007": 172,
+        "Pop_2008": 173,
+        "Pop_2009": 186,
+        "Pop_2010": 200,
+        "Pop_2011": 199,
+        "Pop_2012": 182,
+        "Pop_2013": 231,
+        "ID": 7,
+        "Country": "Spain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5506926,
+          40.3960266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 146,
+        "Pop_2006": 174,
+        "Pop_2007": 174,
+        "Pop_2008": 185,
+        "Pop_2009": 216,
+        "Pop_2010": 189,
+        "Pop_2011": 212,
+        "Pop_2012": 220,
+        "Pop_2013": 223,
+        "ID": 8,
+        "Country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3822031,
+          51.2024651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 87,
+        "Pop_2006": 110,
+        "Pop_2007": 124,
+        "Pop_2008": 113,
+        "Pop_2009": 158,
+        "Pop_2010": 152,
+        "Pop_2011": 216,
+        "Pop_2012": 204,
+        "Pop_2013": 207,
+        "ID": 9,
+        "Country": "Republic of Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.5127029,
+          36.0972404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 41,
+        "Pop_2006": 63,
+        "Pop_2007": 48,
+        "Pop_2008": 46,
+        "Pop_2009": 61,
+        "Pop_2010": 121,
+        "Pop_2011": 100,
+        "Pop_2012": 141,
+        "Pop_2013": 168,
+        "ID": 10,
+        "Country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.8545074,
+          -37.0719643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 98,
+        "Pop_2006": 116,
+        "Pop_2007": 121,
+        "Pop_2008": 154,
+        "Pop_2009": 131,
+        "Pop_2010": 142,
+        "Pop_2011": 155,
+        "Pop_2012": 166,
+        "Pop_2013": 167,
+        "ID": 11,
+        "Country": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4938231,
+          42.7669792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 62,
+        "Pop_2006": 59,
+        "Pop_2007": 78,
+        "Pop_2008": 78,
+        "Pop_2009": 78,
+        "Pop_2010": 133,
+        "Pop_2011": 111,
+        "Pop_2012": 109,
+        "Pop_2013": 139,
+        "ID": 12,
+        "Country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7539825,
+          63.1251869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 40,
+        "Pop_2006": 60,
+        "Pop_2007": 78,
+        "Pop_2008": 79,
+        "Pop_2009": 84,
+        "Pop_2010": 75,
+        "Pop_2011": 99,
+        "Pop_2012": 83,
+        "Pop_2013": 129,
+        "ID": 13,
+        "Country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9731178,
+          -10.8104515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 53,
+        "Pop_2006": 64,
+        "Pop_2007": 70,
+        "Pop_2008": 70,
+        "Pop_2009": 66,
+        "Pop_2010": 69,
+        "Pop_2011": 73,
+        "Pop_2012": 112,
+        "Pop_2013": 126,
+        "ID": 14,
+        "Country": "Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.6334,
+          23.9090939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 86,
+        "Pop_2006": 80,
+        "Pop_2007": 87,
+        "Pop_2008": 87,
+        "Pop_2009": 80,
+        "Pop_2010": 88,
+        "Pop_2011": 84,
+        "Pop_2012": 93,
+        "Pop_2013": 103,
+        "ID": 15,
+        "Country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2228546,
+          46.8037987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 52,
+        "Pop_2006": 74,
+        "Pop_2007": 99,
+        "Pop_2008": 75,
+        "Pop_2009": 81,
+        "Pop_2010": 98,
+        "Pop_2011": 86,
+        "Pop_2012": 98,
+        "Pop_2013": 93,
+        "ID": 16,
+        "Country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9133224,
+          62.8329086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 26,
+        "Pop_2006": "..",
+        "Pop_2007": 57,
+        "Pop_2008": 51,
+        "Pop_2009": 62,
+        "Pop_2010": 98,
+        "Pop_2011": 76,
+        "Pop_2012": 67,
+        "Pop_2013": 87,
+        "ID": 17,
+        "Country": "Iran (Islamic Republic of)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.2942009,
+          32.5007782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 28,
+        "Pop_2006": 35,
+        "Pop_2007": 40,
+        "Pop_2008": 50,
+        "Pop_2009": 70,
+        "Pop_2010": 65,
+        "Pop_2011": 70,
+        "Pop_2012": 61,
+        "Pop_2013": 85,
+        "ID": 18,
+        "Country": "Turkey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9303398,
+          39.0510101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 23,
+        "Pop_2006": 28,
+        "Pop_2007": 28,
+        "Pop_2008": 28,
+        "Pop_2009": 27,
+        "Pop_2010": 39,
+        "Pop_2011": 49,
+        "Pop_2012": 76,
+        "Pop_2013": 71,
+        "ID": 19,
+        "Country": "Malaysia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.962616,
+          2.5490005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 46,
+        "Pop_2006": 69,
+        "Pop_2007": 37,
+        "Pop_2008": 38,
+        "Pop_2009": 47,
+        "Pop_2010": 46,
+        "Pop_2011": 42,
+        "Pop_2012": 55,
+        "Pop_2013": 70,
+        "ID": 20,
+        "Country": "Belgium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6415024,
+          50.6489639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 2,
+        "Pop_2006": 3,
+        "Pop_2007": 14,
+        "Pop_2008": 13,
+        "Pop_2009": 16,
+        "Pop_2010": 20,
+        "Pop_2011": 63,
+        "Pop_2012": 69,
+        "Pop_2013": 69,
+        "ID": 21,
+        "Country": "Azerbaijan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8082008,
+          40.3310051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 31,
+        "Pop_2006": 33,
+        "Pop_2007": 29,
+        "Pop_2008": 34,
+        "Pop_2009": 37,
+        "Pop_2010": 49,
+        "Pop_2011": 43,
+        "Pop_2012": 59,
+        "Pop_2013": 69,
+        "ID": 22,
+        "Country": "Denmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5559072,
+          56.1017609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 24,
+        "Pop_2006": 22,
+        "Pop_2007": 33,
+        "Pop_2008": 29,
+        "Pop_2009": 37,
+        "Pop_2010": 18,
+        "Pop_2011": 43,
+        "Pop_2012": 44,
+        "Pop_2013": 69,
+        "ID": 23,
+        "Country": "Greece"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8974094,
+          39.6843719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 51,
+        "Pop_2006": 38,
+        "Pop_2007": 42,
+        "Pop_2008": 62,
+        "Pop_2009": 50,
+        "Pop_2010": 65,
+        "Pop_2011": 73,
+        "Pop_2012": 79,
+        "Pop_2013": 68,
+        "ID": 24,
+        "Country": "Netherlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5281572,
+          52.3422585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 53,
+        "Pop_2006": 46,
+        "Pop_2007": 29,
+        "Pop_2008": 36,
+        "Pop_2009": 41,
+        "Pop_2010": 54,
+        "Pop_2011": 43,
+        "Pop_2012": 51,
+        "Pop_2013": 61,
+        "ID": 25,
+        "Country": "Sweden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7980595,
+          62.6749725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 22,
+        "Pop_2006": 22,
+        "Pop_2007": 23,
+        "Pop_2008": 35,
+        "Pop_2009": 19,
+        "Pop_2010": 29,
+        "Pop_2011": 26,
+        "Pop_2012": 40,
+        "Pop_2013": 55,
+        "ID": 26,
+        "Country": "Israel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7533722,
+          31.8141937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 84,
+        "Pop_2006": 65,
+        "Pop_2007": 106,
+        "Pop_2008": 121,
+        "Pop_2009": 80,
+        "Pop_2010": 40,
+        "Pop_2011": 44,
+        "Pop_2012": 78,
+        "Pop_2013": 53,
+        "ID": 27,
+        "Country": "Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.5094757,
+          11.1126661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 20,
+        "Pop_2006": 26,
+        "Pop_2007": 17,
+        "Pop_2008": 25,
+        "Pop_2009": 25,
+        "Pop_2010": 42,
+        "Pop_2011": 42,
+        "Pop_2012": 49,
+        "Pop_2013": 49,
+        "ID": 28,
+        "Country": "Finland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9894028,
+          64.2885818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 30,
+        "Pop_2006": 33,
+        "Pop_2007": 32,
+        "Pop_2008": 30,
+        "Pop_2009": 35,
+        "Pop_2010": 46,
+        "Pop_2011": 54,
+        "Pop_2012": 54,
+        "Pop_2013": 46,
+        "ID": 29,
+        "Country": "Austria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1402111,
+          47.5884399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 31,
+        "Pop_2006": 45,
+        "Pop_2007": 30,
+        "Pop_2008": 39,
+        "Pop_2009": 45,
+        "Pop_2010": 37,
+        "Pop_2011": 45,
+        "Pop_2012": 46,
+        "Pop_2013": 45,
+        "ID": 30,
+        "Country": "Czech Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.331501,
+          49.7391052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 55,
+        "Pop_2006": 51,
+        "Pop_2007": 50,
+        "Pop_2008": 53,
+        "Pop_2009": 70,
+        "Pop_2010": 54,
+        "Pop_2011": 53,
+        "Pop_2012": 52,
+        "Pop_2013": 42,
+        "ID": 31,
+        "Country": "Hong Kong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1095,
+          22.3964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 26,
+        "Pop_2006": 46,
+        "Pop_2007": 28,
+        "Pop_2008": 30,
+        "Pop_2009": 27,
+        "Pop_2010": 24,
+        "Pop_2011": "..",
+        "Pop_2012": 32,
+        "Pop_2013": 38,
+        "ID": 32,
+        "Country": "Hungary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4165745,
+          47.1657333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 20,
+        "Pop_2006": 18,
+        "Pop_2007": 12,
+        "Pop_2008": 14,
+        "Pop_2009": 22,
+        "Pop_2010": 29,
+        "Pop_2011": 17,
+        "Pop_2012": 38,
+        "Pop_2013": 37,
+        "ID": 33,
+        "Country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0059357,
+          45.8377419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 10,
+        "Pop_2006": 19,
+        "Pop_2007": 24,
+        "Pop_2008": 39,
+        "Pop_2009": 36,
+        "Pop_2010": 34,
+        "Pop_2011": 32,
+        "Pop_2012": 38,
+        "Pop_2013": 34,
+        "ID": 34,
+        "Country": "Ireland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1961021,
+          53.1827278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 23,
+        "Pop_2006": 59,
+        "Pop_2007": 37,
+        "Pop_2008": 44,
+        "Pop_2009": 46,
+        "Pop_2010": 37,
+        "Pop_2011": 28,
+        "Pop_2012": 25,
+        "Pop_2013": 33,
+        "ID": 35,
+        "Country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8622971,
+          26.7561035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 18,
+        "Pop_2006": 11,
+        "Pop_2007": 12,
+        "Pop_2008": 24,
+        "Pop_2009": 14,
+        "Pop_2010": 14,
+        "Pop_2011": 23,
+        "Pop_2012": 27,
+        "Pop_2013": 31,
+        "ID": 36,
+        "Country": "Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.674675,
+          -35.7862282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 30,
+        "Pop_2006": 37,
+        "Pop_2007": 40,
+        "Pop_2008": 45,
+        "Pop_2009": 49,
+        "Pop_2010": 60,
+        "Pop_2011": 51,
+        "Pop_2012": 47,
+        "Pop_2013": 31,
+        "ID": 37,
+        "Country": "Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3777599,
+          52.14785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 24,
+        "Pop_2006": 24,
+        "Pop_2007": 27,
+        "Pop_2008": 30,
+        "Pop_2009": 27,
+        "Pop_2010": 27,
+        "Pop_2011": 35,
+        "Pop_2012": 26,
+        "Pop_2013": 29,
+        "ID": 38,
+        "Country": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8999252,
+          66.7666702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 10,
+        "Pop_2006": 8,
+        "Pop_2007": 4,
+        "Pop_2008": 3,
+        "Pop_2009": 5,
+        "Pop_2010": 2,
+        "Pop_2011": 5,
+        "Pop_2012": 24,
+        "Pop_2013": 28,
+        "ID": 39,
+        "Country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9394722,
+          40.2926636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 25,
+        "Pop_2006": 28,
+        "Pop_2007": 26,
+        "Pop_2008": 33,
+        "Pop_2009": 45,
+        "Pop_2010": 37,
+        "Pop_2011": 43,
+        "Pop_2012": 29,
+        "Pop_2013": 26,
+        "ID": 40,
+        "Country": "Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5041199,
+          -25.5852413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 8,
+        "Pop_2006": 8,
+        "Pop_2007": 8,
+        "Pop_2008": 17,
+        "Pop_2009": 19,
+        "Pop_2010": 10,
+        "Pop_2011": 18,
+        "Pop_2012": 29,
+        "Pop_2013": 26,
+        "ID": 41,
+        "Country": "Colombia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2779694,
+          3.9976072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 2,
+        "Pop_2006": 2,
+        "Pop_2007": 13,
+        "Pop_2008": 13,
+        "Pop_2009": 7,
+        "Pop_2010": 7,
+        "Pop_2011": 9,
+        "Pop_2012": 22,
+        "Pop_2013": 26,
+        "ID": 42,
+        "Country": "Croatia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7345037,
+          45.4443054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 3,
+        "Pop_2006": 6,
+        "Pop_2007": 11,
+        "Pop_2008": 11,
+        "Pop_2009": 14,
+        "Pop_2010": 21,
+        "Pop_2011": 25,
+        "Pop_2012": 24,
+        "Pop_2013": 25,
+        "ID": 43,
+        "Country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.3541565,
+          -44.0562935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 11,
+        "Pop_2006": 10,
+        "Pop_2007": 9,
+        "Pop_2008": 10,
+        "Pop_2009": 18,
+        "Pop_2010": 23,
+        "Pop_2011": 22,
+        "Pop_2012": 19,
+        "Pop_2013": 25,
+        "ID": 44,
+        "Country": "South Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0628796,
+          -29.0461845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 16,
+        "Pop_2006": 12,
+        "Pop_2007": 15,
+        "Pop_2008": 13,
+        "Pop_2009": 14,
+        "Pop_2010": 19,
+        "Pop_2011": 24,
+        "Pop_2012": 22,
+        "Pop_2013": 22,
+        "ID": 45,
+        "Country": "Morocco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9533882,
+          29.1405907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 8,
+        "Pop_2006": 3,
+        "Pop_2007": 10,
+        "Pop_2008": 11,
+        "Pop_2009": 18,
+        "Pop_2010": 8,
+        "Pop_2011": 12,
+        "Pop_2012": 21,
+        "Pop_2013": 22,
+        "ID": 46,
+        "Country": "Slovakia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.48489,
+          48.7074852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 1,
+        "Pop_2006": 1,
+        "Pop_2007": "..",
+        "Pop_2008": 14,
+        "Pop_2009": 15,
+        "Pop_2010": 14,
+        "Pop_2011": 13,
+        "Pop_2012": 13,
+        "Pop_2013": 21,
+        "ID": 47,
+        "Country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0668945,
+          46.8364792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 7,
+        "Pop_2006": 14,
+        "Pop_2007": 13,
+        "Pop_2008": 32,
+        "Pop_2009": 9,
+        "Pop_2010": 13,
+        "Pop_2011": 16,
+        "Pop_2012": 13,
+        "Pop_2013": 21,
+        "ID": 48,
+        "Country": "Venezuela (Bolivarian Republic of)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1454163,
+          7.6653886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 8,
+        "Pop_2006": 11,
+        "Pop_2007": 14,
+        "Pop_2008": 9,
+        "Pop_2009": 12,
+        "Pop_2010": 5,
+        "Pop_2011": 13,
+        "Pop_2012": 21,
+        "Pop_2013": 18,
+        "ID": 49,
+        "Country": "Estonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2416248,
+          58.6937447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": "..",
+        "Pop_2006": "..",
+        "Pop_2007": 19,
+        "Pop_2008": 16,
+        "Pop_2009": 26,
+        "Pop_2010": 35,
+        "Pop_2011": 29,
+        "Pop_2012": 29,
+        "Pop_2013": 18,
+        "ID": 50,
+        "Country": "Serbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7979584,
+          44.2329712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 4,
+        "Pop_2006": 5,
+        "Pop_2007": 3,
+        "Pop_2008": 1,
+        "Pop_2009": 4,
+        "Pop_2010": "..",
+        "Pop_2011": "..",
+        "Pop_2012": 18,
+        "Pop_2013": 16,
+        "ID": 51,
+        "Country": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7455606,
+          12.2849855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 9,
+        "Pop_2006": 12,
+        "Pop_2007": 8,
+        "Pop_2008": 9,
+        "Pop_2009": 18,
+        "Pop_2010": 15,
+        "Pop_2011": 15,
+        "Pop_2012": 19,
+        "Pop_2013": 15,
+        "ID": 52,
+        "Country": "Bulgaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2837334,
+          42.7661018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 7,
+        "Pop_2006": 8,
+        "Pop_2007": 8,
+        "Pop_2008": 10,
+        "Pop_2009": 8,
+        "Pop_2010": 13,
+        "Pop_2011": 14,
+        "Pop_2012": 7,
+        "Pop_2013": 15,
+        "ID": 53,
+        "Country": "Lebanon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8997269,
+          33.9254112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 2,
+        "Pop_2006": 1,
+        "Pop_2007": 1,
+        "Pop_2008": 3,
+        "Pop_2009": 2,
+        "Pop_2010": 7,
+        "Pop_2011": 2,
+        "Pop_2012": 6,
+        "Pop_2013": 15,
+        "ID": 54,
+        "Country": "Lithuania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.870924,
+          55.3387184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 22,
+        "Pop_2006": 32,
+        "Pop_2007": 15,
+        "Pop_2008": 17,
+        "Pop_2009": 23,
+        "Pop_2010": 33,
+        "Pop_2011": 30,
+        "Pop_2012": 15,
+        "Pop_2013": 13,
+        "ID": 55,
+        "Country": "Portugal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0094223,
+          39.6420097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 8,
+        "Pop_2006": 10,
+        "Pop_2007": 14,
+        "Pop_2008": 17,
+        "Pop_2009": 6,
+        "Pop_2010": 14,
+        "Pop_2011": 15,
+        "Pop_2012": 12,
+        "Pop_2013": 13,
+        "ID": 56,
+        "Country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8205338,
+          1.3219959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 10,
+        "Pop_2006": 4,
+        "Pop_2007": 5,
+        "Pop_2008": 8,
+        "Pop_2009": 11,
+        "Pop_2010": 8,
+        "Pop_2011": 19,
+        "Pop_2012": 10,
+        "Pop_2013": 13,
+        "ID": 57,
+        "Country": "Slovenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8206644,
+          46.1202393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 4,
+        "Pop_2006": 6,
+        "Pop_2007": 6,
+        "Pop_2008": 11,
+        "Pop_2009": 8,
+        "Pop_2010": 8,
+        "Pop_2011": 8,
+        "Pop_2012": 8,
+        "Pop_2013": 12,
+        "ID": 58,
+        "Country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4221191,
+          -9.212533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 5,
+        "Pop_2006": 7,
+        "Pop_2007": 9,
+        "Pop_2008": 17,
+        "Pop_2009": 5,
+        "Pop_2010": "..",
+        "Pop_2011": 3,
+        "Pop_2012": 7,
+        "Pop_2013": 12,
+        "ID": 59,
+        "Country": "Ukraine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4757824,
+          48.9265633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": "..",
+        "Pop_2006": "..",
+        "Pop_2007": 7,
+        "Pop_2008": 10,
+        "Pop_2009": 6,
+        "Pop_2010": 5,
+        "Pop_2011": 7,
+        "Pop_2012": 2,
+        "Pop_2013": 11,
+        "ID": 60,
+        "Country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7902412,
+          44.1653328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 6,
+        "Pop_2006": 2,
+        "Pop_2007": 19,
+        "Pop_2008": 16,
+        "Pop_2009": 14,
+        "Pop_2010": 8,
+        "Pop_2011": 8,
+        "Pop_2012": 15,
+        "Pop_2013": 11,
+        "ID": 61,
+        "Country": "Uruguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0559082,
+          -32.9696541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 4,
+        "Pop_2006": 6,
+        "Pop_2007": 7,
+        "Pop_2008": 7,
+        "Pop_2009": 9,
+        "Pop_2010": 11,
+        "Pop_2011": 6,
+        "Pop_2012": 11,
+        "Pop_2013": 10,
+        "ID": 62,
+        "Country": "Latvia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8402443,
+          56.8687325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": "..",
+        "Pop_2006": "..",
+        "Pop_2007": 1,
+        "Pop_2008": 4,
+        "Pop_2009": 6,
+        "Pop_2010": 9,
+        "Pop_2011": 10,
+        "Pop_2012": 10,
+        "Pop_2013": 9,
+        "ID": 63,
+        "Country": "Gabon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7386084,
+          -0.6345401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": "..",
+        "Pop_2006": "..",
+        "Pop_2007": 7,
+        "Pop_2008": 13,
+        "Pop_2009": 14,
+        "Pop_2010": 7,
+        "Pop_2011": 14,
+        "Pop_2012": 6,
+        "Pop_2013": 9,
+        "ID": 64,
+        "Country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5059509,
+          42.1810265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 7,
+        "Pop_2006": 4,
+        "Pop_2007": "..",
+        "Pop_2008": 2,
+        "Pop_2009": 1,
+        "Pop_2010": 16,
+        "Pop_2011": 11,
+        "Pop_2012": 8,
+        "Pop_2013": 8,
+        "ID": 65,
+        "Country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2452593,
+          34.3352852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 2,
+        "Pop_2006": 6,
+        "Pop_2007": 9,
+        "Pop_2008": 10,
+        "Pop_2009": 12,
+        "Pop_2010": 17,
+        "Pop_2011": 13,
+        "Pop_2012": 8,
+        "Pop_2013": 7,
+        "ID": 66,
+        "Country": "Iceland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.9617004,
+          64.928566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 2,
+        "Pop_2006": "..",
+        "Pop_2007": "..",
+        "Pop_2008": "..",
+        "Pop_2009": "..",
+        "Pop_2010": 4,
+        "Pop_2011": 10,
+        "Pop_2012": 8,
+        "Pop_2013": 6,
+        "ID": 67,
+        "Country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.6280365,
+          18.2491398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": "..",
+        "Pop_2006": 1,
+        "Pop_2007": 1,
+        "Pop_2008": 1,
+        "Pop_2009": 4,
+        "Pop_2010": 1,
+        "Pop_2011": 1,
+        "Pop_2012": 1,
+        "Pop_2013": 4,
+        "ID": 68,
+        "Country": "Macau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5439,
+          22.1987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": 2,
+        "Pop_2006": 2,
+        "Pop_2007": 6,
+        "Pop_2008": "..",
+        "Pop_2009": 2,
+        "Pop_2010": 4,
+        "Pop_2011": 12,
+        "Pop_2012": 10,
+        "Pop_2013": 3,
+        "ID": 69,
+        "Country": "Macedonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7008953,
+          41.6004562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pop_2005": "..",
+        "Pop_2006": "..",
+        "Pop_2007": "..",
+        "Pop_2008": 2,
+        "Pop_2009": 2,
+        "Pop_2010": 6,
+        "Pop_2011": 3,
+        "Pop_2012": 3,
+        "Pop_2013": 2,
+        "ID": 70,
+        "Country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2272339,
+          9.8849916
+        ]
+      }
+    }
+  ]
+}

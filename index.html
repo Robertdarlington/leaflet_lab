@@ -3,11 +3,13 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width">
-		<title></title>
+		<title>Film Map</title>
+
 
 		<!--put your external stylesheet links here-->
-		<link rel="stylesheet" href="lib/leaflet/leaflet.css">
-		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="lib/leaflet/leaflet.css" />
+		<link rel="stylesheet" href="css/leaflet-search.css" />
+		<link rel="stylesheet" href="css/style.css" />
 		<!--[if IE<9]>
 			<link rel="stylesheet" href="css/style.ie.css">
 		<![endif]-->
@@ -17,14 +19,52 @@
 		<!--put your initial page content here-->
 		<div id="mapid"></div>
 		<div id="panel">
-			African Elephant Population
+			Films Produced per Year
 		</div>
+
+
 		<!--you can also use this space for internal scripts or stylesheets;
 		place these within <script> or <style> tags-->
+
 
 		<!--put your external script links here-->
 		<script type="text/javascript" src="lib/jquery-1.11.3.js"></script>
 		<script type="text/javascript" src="lib/leaflet/leaflet.js"></script>
+		<script type="text/javascript" src="js/leaflet-search.js"></script>
 		<script type="text/javascript" src="js/main.js"></script>
+
+		<script>
+	// 	function searchByAjax(text, callResponse)//callback for 3rd party ajax requests
+	// {
+	// 	return $.ajax({
+	// 		url: 'search.php',	//read comments in search.php for more information usage
+	// 		type: 'GET',
+	// 		data: {q: text},
+	// 		dataType: 'json',
+	// 		success: function(json) {
+	// 			callResponse(json);
+	// 		}
+	// 	});
+	// }
+	//
+	// map.addControl( new L.Control.Search({sourceData: searchByAjax, text:'Color...', markerLocation: true}) );
+
+ // var searchControl = new L.Control.Search({layer:  , propertyName: feature.properties.Country, circleLocation:false});
+ // searchControl.on('search_locationfound', function(e) {
+ // e.layer.setStyle({fillColor: 'white', color: 'white', fillOpacity: 0.5});
+ // //map.fitBounds(e.layer.getBounds());
+ // if(e.layer._popup)
+ // 		e.layer.openPopup();
+ // }).on('search_collapsed', function(e) {
+ // film_prod.json.eachLayer(function(layer) {
+ // 		film_prod.json.resetStyle(layer);
+ // });
+ // });
+ // mymap.addControl( searchControl );  //inizialize search control
+
+
+	</script>
+
+
 	</body>
 </html>

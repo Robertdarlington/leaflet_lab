@@ -1,5 +1,5 @@
 #mapid {
-  height: 800px;
+  height: 650px;
   width: 80%;
   display: inline-block;
 }
@@ -8,10 +8,36 @@
   width: 16%;
   display: inline-block;
   vertical-align: top;
-  background-color: #FFA;
+  margin: auto;
+  text-align: center;
+  background-color: #ff7800;
+  opacity: .8;
   padding: 10px;
+}
+
+.range-slider {
+    width: 40%;
+}
+
+#forward {
+    float: right;
+    background-color: #FFF;
+}
+
+#reverse {
+    float: left;
+    background-color: #FFF;
 }
 
 .leaflet-popup-content p {
     margin: .01em 0;
+}
+
+.input[type=text] {
+    width: 130px;
+    display: inline-block;
+    float: right;
+    background-color: #FFF
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
 }

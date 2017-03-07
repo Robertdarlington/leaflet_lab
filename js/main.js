@@ -395,13 +395,13 @@ function createSequenceControls(mymap, attributes){
 					 });
 					 $(container).on('dblclick', function(e){
 							L.DomEvent.stopPropagation(e);
-					});
-					$(container).on('onclick', function(e){
+					 });
+					 $(container).on('onclick', function(e){
 						 L.DomEvent.stopPropagation(e);
-			  	});
-				  $(container).on('ondrag', function(e){
+			  	 });
+				   $(container).on('ondrag', function(e){
 						L.DomEvent.stopPropagation(e);
-					});
+					 });
 					//create range input element (slider)
           $(container).append('<input class="range-slider" type="range">');
 					//add skip buttons

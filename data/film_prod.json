@@ -129,7 +129,7 @@
         "Pop_2012": 326,
         "Pop_2013": 241,
         "ID": 6,
-        "Country": "United Kingdom of Great Britain and Northern Ireland"
+        "Country": "United Kingdom of Great Britain"
       },
       "geometry": {
         "type": "Point",
@@ -198,7 +198,7 @@
         "Pop_2012": 204,
         "Pop_2013": 207,
         "ID": 9,
-        "Country": "Republic of Korea"
+        "Country": "South Korea"
       },
       "geometry": {
         "type": "Point",
@@ -382,7 +382,7 @@
         "Pop_2012": 67,
         "Pop_2013": 87,
         "ID": 17,
-        "Country": "Iran (Islamic Republic of)"
+        "Country": "Iran"
       },
       "geometry": {
         "type": "Point",
@@ -1095,7 +1095,7 @@
         "Pop_2012": 13,
         "Pop_2013": 21,
         "ID": 48,
-        "Country": "Venezuela (Bolivarian Republic of)"
+        "Country": "Venezuela"
       },
       "geometry": {
         "type": "Point",

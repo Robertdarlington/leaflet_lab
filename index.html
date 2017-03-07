@@ -15,13 +15,61 @@
 		<![endif]-->
 	</head>
 
+	<style>
+
+h1 {
+	    font-family: "Courier New";
+			font-size: 2.5em;
+			color: black;
+			background: white;
+			width: 100%;
+			margin: auto;
+			text-align: center;
+			border: 5px solid #E2B227;
+	}
+h2 {
+	    font-family: "Verdana";
+			font-size: 1em;
+			color: #E2B227;
+			background: black;
+			width: 100%;
+			margin: 0px;
+			text-align: center;
+	}
+h3 {
+	color: #E2B227;
+	font-size: 12px;
+	margin: 0px;
+	text-align: center;
+	font-family: "Courier New";
+}
+h4 {
+	color: #E2B227;
+	font-size: 12px;
+	margin: 0px;
+	text-align: center;
+	font-family: "Courier New";
+}
+p {
+    font-family: "Courier New";
+		font-size: 15px;
+		font-weight: normal;
+		color: black;
+		margin: 0px;
+		text-align: center;
+}
+
+body {
+	background-color: black;
+}
+	</style>
+
 	<body>
 		<!--put your initial page content here-->
+		<h1>Feature Films</h1>
+		<h2 class="thick">National Feature Films Produced per Top 70 Countries</p>
+		<h4>2005 to 2013 </>
 		<div id="mapid"></div>
-		<div id="panel">
-			Films Produced per Year
-		</div>
-
 
 		<!--you can also use this space for internal scripts or stylesheets;
 		place these within <script> or <style> tags-->
@@ -33,37 +81,7 @@
 		<script type="text/javascript" src="js/leaflet-search.js"></script>
 		<script type="text/javascript" src="js/main.js"></script>
 
-		<script>
-	// 	function searchByAjax(text, callResponse)//callback for 3rd party ajax requests
-	// {
-	// 	return $.ajax({
-	// 		url: 'search.php',	//read comments in search.php for more information usage
-	// 		type: 'GET',
-	// 		data: {q: text},
-	// 		dataType: 'json',
-	// 		success: function(json) {
-	// 			callResponse(json);
-	// 		}
-	// 	});
-	// }
-	//
-	// map.addControl( new L.Control.Search({sourceData: searchByAjax, text:'Color...', markerLocation: true}) );
-
- // var searchControl = new L.Control.Search({layer:  , propertyName: feature.properties.Country, circleLocation:false});
- // searchControl.on('search_locationfound', function(e) {
- // e.layer.setStyle({fillColor: 'white', color: 'white', fillOpacity: 0.5});
- // //map.fitBounds(e.layer.getBounds());
- // if(e.layer._popup)
- // 		e.layer.openPopup();
- // }).on('search_collapsed', function(e) {
- // film_prod.json.eachLayer(function(layer) {
- // 		film_prod.json.resetStyle(layer);
- // });
- // });
- // mymap.addControl( searchControl );  //inizialize search control
-
-
-	</script>
+		<h3>A Map by Robert Darlington</h3>
 
 
 	</body>
